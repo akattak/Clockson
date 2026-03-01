@@ -1,37 +1,41 @@
-# Privacy Policy
+# Privacy Policy – Crew Clock
 
-**Last updated: March 1, 2026**
+**Effective Date: 16 Jan 2025**
 
-## Introduction
+Crew Clock is a professional aviation utility application designed to help pilots manage rest and duty timing.
 
-Clockson ("the App") is developed and maintained by Aattak. This Privacy Policy explains how we handle information when you use our App.
+## Data Collection
 
-## Information We Collect
+Crew Clock does not collect, store, transmit, or share any personal information or sensitive data from users. All calculations and settings remain on the user's device.
 
-Clockson does **not** collect, store, or transmit any personal data. The App does not require an account, login, or any form of registration.
+## Analytics and Diagnostics
 
-## Data Usage
+Crew Clock does not include any third-party analytics or tracking SDKs.
 
-The App does not use, share, sell, or disclose any user data to third parties because no data is collected.
-
-## Local Storage
-
-All settings and preferences used by the App are stored **locally on your device** and are never transmitted to any external servers.
+The app may rely on Apple's built-in, optional diagnostic and usage reporting provided by the operating system (for example, crash logs and performance metrics). This information is processed by Apple and is not directly identifiable to us as the developer. It is used solely to monitor stability and improve the app's reliability.
 
 ## Third-Party Services
 
-The App does not integrate with any third-party analytics, advertising, or tracking services.
+Crew Clock does not use third-party advertising networks, analytics platforms, social login providers, or any other external tracking services.
+
+## User Accounts and Authentication
+
+Crew Clock does not require users to create an account, sign in, or provide contact details such as name, email address, or phone number.
+
+## Data Sharing
+
+Because Crew Clock does not collect user data, no user data is sold, rented, or shared with any third parties.
 
 ## Children's Privacy
 
-The App does not collect any information from users of any age, including children under 13.
+Crew Clock is intended for professional aviation use and is not targeted at children. The app does not knowingly collect any information from children under 13 years of age.
 
 ## Changes to This Policy
 
-If we update this Privacy Policy, the new version will be posted at this URL. Continued use of the App after changes constitutes acceptance of the updated policy.
+If we make material changes to this Privacy Policy, the updated version will be posted at the same URL and the "Effective Date" will be revised. Users are encouraged to review this policy periodically for any updates.
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact us at:
+If you have any questions or concerns about this Privacy Policy, please contact:
 
-akattak on GitHub: https://github.com/akattak
+Email: [investor.confused@gmail.com](mailto:investor.confused@gmail.com)
